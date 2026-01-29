@@ -15,7 +15,7 @@
 ---
 
 ## 👯 I’m looking to collaborate on
-- MERN stack projects (React + Node + MongoDB)
+- MERN stack projects (React + Node + MongoDB/MySQL)
 - Open-source contributions
 - College, hackathon, and problem-statement-based projects
 - Backend-heavy applications with clean architecture
@@ -58,7 +58,6 @@
 - HTML  
 - CSS  
 - JavaScript  
-- React  
 
 **Backend**  
 - Node.js  
@@ -69,6 +68,7 @@
 - MySQL  
 - MongoDB  
 - PostgreSQL (project usage)
+- PL/SQL
 
 **Tools & Platforms**  
 - Git & GitHub  
@@ -94,7 +94,8 @@
   *Java, MySQL, HTML, CSS, JavaScript* – Complete DBMS-oriented application  
 
 - **Data Download Duplication Alert System (DDAS)**  
-  *Java, PostgreSQL* – Prevents redundant data downloads  
+  *Java, PostgreSQL* – Prevents redundant data downloads
+- ** 
 
 ---
 
