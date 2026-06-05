@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jay Kadam  
 
 🎓 Computer Engineering Student at **International Institute of Information Technology (I²IT)**  
-💻 Aspiring **Full-Stack Developer (PERN)** | Java & DSA Enthusiast  
+💻 Aspiring **Full-Stack Developer (PERN)** | Java & DSA Enthusiast | **275+ DSA Problems solved | Problem Solving**
 🚀 Actively preparing for internships, placements, and tech interviews  
 
 ---
