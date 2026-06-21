@@ -76,15 +76,32 @@ A full-stack travel platform with 200+ property listings, RAG + LLM-powered natu
 
 ---
 
-### 📊 GitHub Stats
+### 📊 The Numbers Behind the Code
+
+> *Consistency compounds — here's the receipts.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaykadam04&show_icons=true&theme=tokyonight&hide_border=true" alt="Jay's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaykadam04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jay's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaykadam04&theme=tokyonight&hide_border=true" alt="Jay's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykadam04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykadam04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
+<!-- Trophy case — turns raw stats into visible "levels", which reads as achievement rather than just data -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaykadam04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+<!-- Contribution snake — motion is the single strongest attention cue in human vision, so this is the first thing eyes land on -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaykadam04/Jaykadam04/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation"/>
+</p>
+
+<!-- Visitor counter — a visible number signals social proof: "people are actually looking at this" -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaykadam04&style=for-the-badge&color=6C3CE9&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
