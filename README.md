@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.E. Computer Engineering @ International Institute of Information Technology, Pune — CGPA 8.23 (Graduating June 2026)
+- 🎓 B.E. Computer Engineering @ International Institute of Information Technology, Pune — CGPA 8.23 (June 2026)
 - 💼 Full Stack Developer Intern @ Appwizer Solutions — built RESTful APIs handling 1,000+ daily requests with sub-300ms response time
 - 🤖 Machine Learning Intern @ AWS Academy — end-to-end ML/AI workflows on AWS
 - 🧠 Solved **350+ DSA problems** in Java
