@@ -18,11 +18,12 @@
 ### 🚀 About Me
 
 - 🎓 B.E. Computer Engineering @ International Institute of Information Technology, Pune — CGPA 8.23 (June 2026)
-- 💼 Full Stack Developer Intern @ Appwizer Solutions — built RESTful APIs handling 1,000+ daily requests with sub-300ms response time
-- 🤖 Machine Learning Intern @ AWS Academy — end-to-end ML/AI workflows on AWS
-- 🧠 Solved **350+ DSA problems** in Java
-- 🏗️ Built **NEXORA AI**, a production-grade multi-tenant SaaS platform with WhatsApp-powered AI lead conversion
-- 🌍 Built **WANDERLUST**, an AI-powered travel accommodation platform using RAG + LLMs
+- 🛍️ Currently building **Poonam Saree Center**, a production e-commerce platform (Next.js, Supabase, Razorpay) as System Designer for a 3-developer team — owning architecture decisions and writing Jest unit tests for core business logic
+- 💼 Full Stack Developer Intern @ Appwizer Solutions — built a multi-tenant WhatsApp bulk-messaging platform processing 10,000+ Excel records per upload through a validation-chunking-delivery pipeline
+- 🤖 Machine Learning Intern @ AWS Academy — end-to-end ML workflows (data cleaning, EDA, model evaluation) on AWS
+- 🧠 Solved **400+ DSA problems** in Java, plus **200+ SQL problems** — recently working through LeetCode Hard (segment trees, digit DP, bitset DP)
+- 🏗️ Built **NEXORA AI**, a multi-tenant WhatsApp CRM with multi-provider LLM fallback for reliable AI-driven lead replies
+- 🌍 Built **WANDERLUST**, a two-service platform with a Python FastAPI microservice powering a RAG-based property chatbot
 - 🏆 Team Leader — IEEE Hackathon 2025 & Fusion Hackathon 2025
 - 📝 Published research: *"Use of Artificial Intelligence"* (JETIR, 2023)
 - 📫 Reach me at **kadamjay282@gmail.com**
@@ -42,20 +43,24 @@
 **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI/ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -66,13 +71,17 @@
 
 ### 📌 Featured Projects
 
+#### 🔹 Poonam Saree Center — E-Commerce Platform (Freelance, in progress)
+A modular monolith e-commerce platform (Next.js App Router, TypeScript, Supabase/Postgres) built as System Designer for a 3-developer team — chosen over microservices to fit team size and timeline. Owns the payment component (Razorpay), core data-consistency decisions, and Jest unit tests for business logic.
+`Next.js` `TypeScript` `Supabase` `Prisma` `Vercel` `Razorpay`
+
 #### 🔹 [NEXORA AI — WhatsApp-Powered Gym Lead Conversion Platform](https://github.com/Jaykadam04/Nexora_AI_Bhavesh)
-A production-grade multi-tenant SaaS platform with 4 integrated apps (backend API, CRM dashboard, admin console, marketing site). Features a real-time webhook pipeline, LLM-based lead classification, automated cron jobs, and an analytics dashboard built with React + Recharts.
+A multi-tenant CRM (Express/Sequelize/MySQL) ingesting WhatsApp messages via webhook. Features a two-stage idempotency check to safely handle duplicate provider retries, multi-provider LLM fallback (Gemini/OpenAI/Groq) for reliable AI-driven replies, and a React + Recharts analytics dashboard.
 `Node.js` `Express.js` `MySQL` `React` `TypeScript` `WhatsApp Cloud API` `LLMs`
 
-#### 🔹 [WANDERLUST — AI-Powered Travel Accommodation Platform](https://github.com/Jaykadam04/Wonderlust-travel-accomodatin-platform)
-A full-stack travel platform with 200+ property listings, RAG + LLM-powered natural language search (cutting search time by ~40%), and role-based access control across 3 user roles.
-`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary`
+#### 🔹 [WANDERLUST — RAG-Powered Vacation Listing Platform](https://github.com/Jaykadam04/Wonderlust-travel-accomodatin-platform)
+A two-service architecture: a Node.js/Express MVC web app paired with a separate Python FastAPI microservice powering a per-listing RAG chatbot grounded in each property's PDF. Implements chunking, Gemini embeddings, and Chroma vector search with per-listing isolation, plus a token-bucket rate limiter for reliability.
+`Node.js` `Express.js` `Python` `FastAPI` `MongoDB` `LangChain` `Chroma`
 
 ---
 
@@ -89,17 +98,14 @@ A full-stack travel platform with 200+ property listings, RAG + LLM-powered natu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykadam04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
-<!-- Trophy case — turns raw stats into visible "levels", which reads as achievement rather than just data -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jaykadam04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
-<!-- Contribution snake — motion is the single strongest attention cue in human vision, so this is the first thing eyes land on -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jaykadam04/Jaykadam04/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation"/>
 </p>
 
-<!-- Visitor counter — a visible number signals social proof: "people are actually looking at this" -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jaykadam04&style=for-the-badge&color=6C3CE9&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
@@ -108,8 +114,10 @@ A full-stack travel platform with 200+ property listings, RAG + LLM-powered natu
 
 ### 🏆 Certifications & Achievements
 
+- ✅ DSA in Java — 400+ problems solved, including LeetCode Hard (segment trees, binary lifting, digit DP)
+- ✅ SQL Practice — 200+ problems solved on SQLPractice.com
+- ✅ PL/SQL — 30+ procedures/triggers written in DBMS coursework
 - ✅ Agile Software Development — Agile, Lean & Scrum methodologies, CI/CD practices
-- ✅ DSA in Java — 300+ problems solved
 - ✅ MERN Stack Development
 - ✅ Research Publication: *"Use of Artificial Intelligence"* (JETIR, 2023)
 - 🏅 Smart India Hackathon — Participant (2024, 2025)
