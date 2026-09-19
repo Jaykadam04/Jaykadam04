@@ -1,123 +1,79 @@
-<h1 align="center">Hi there, I'm Jay Kadam 👋</h1>
-<h3 align="center">Computer Engineering Graduate | Full Stack & Backend Developer | System Designer</h3>
+# Jay Kadam
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jay-kadam-631038259">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kadamjay282@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://codolio.com/profile/Jaykadam04">
-    <img src="https://img.shields.io/badge/Codolio-6C3CE9?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+📍 Pune, India  
+📞 +91-9623503687  
+✉️ kadamjay282@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/jay-kadam-631038259) • [GitHub](https://github.com/Jaykadam04) • [Codolio](https://codolio.com/profile/Jaykadam04)
 
 ---
 
-### 🚀 About Me
+## Summary / Career Objective
 
-- 🎓 B.E. Computer Engineering @ International Institute of Information Technology, Pune — CGPA 8.23 (June 2026)
-- 💼 Full Stack Developer & System Designer (Freelance) @ Poonam Sarees E-Commerce Platform (July 2026 – Current)
-- 💼 Full Stack Developer Intern @ Appwizer Solutions (Jan 2026 – Apr 2026)
-- 🤖 Machine Learning Intern @ AWS Academy (Jan 2025 – Mar 2025)
-- 🧠 Solved **400+ DSA problems** and **200+ SQL problems**
-- 🌍 Built **WANDERLUST**, a RAG-powered listing platform using Node.js + FastAPI microservices
-- 🏆 Team Leader — IEEE Hackathon 2025 & Fusion Hackathon 2025
-- 📝 Published research: *"Use of Artificial Intelligence"* (JETIR, 2023)
-- 📫 Reach me at **kadamjay282@gmail.com**
+Computer Engineering graduate (CGPA: 8.23) with hands-on experience designing and integrating software components into cohesive systems — from a multi-service data pipeline to a production e-commerce platform where I took full ownership of architecture decisions. I follow structured SDLC practices, write unit tests and technical documentation as I build, and I'm comfortable using AI tools to speed up routine development work. I've solved 400+ DSA and 200+ SQL problems, and collaborate well with both technical and non-technical stakeholders.
 
----
+## Education
 
-### 🛠️ Tech Stack
+**International Institute of Information Technology, Pune**  
+B.E. Computer Engineering — CGPA: 8.23  
+June 2026
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+## Skills
 
-**Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Programming Languages:** Python, Java, JavaScript/TypeScript, C/C++, SQL, PL/SQL  
+**Software Practices:** Component Design, SDLC, Unit Testing (Jest), Technical Documentation, Design Patterns  
+**Backend & Integration:** Node.js, Express.js, FastAPI, RESTful APIs, System/API Integration  
+**Data & Databases:** MySQL, PostgreSQL, MongoDB, Data Pipeline Design, Data Analysis (Pandas, NumPy)  
+**AI Tools & Cloud:** AI-Assisted Development, LLM Integration (Gemini, OpenAI, Groq), Git, AWS, Agile
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+## Experience
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+### Poonam Sarees E-Commerce Platform (Freelance Client) | Full Stack Developer & System Designer
+**Duration:** July 2026 - Current  
+**Tech:** Next.js, TypeScript, Supabase, Vercel
 
-**Tools**
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- Took ownership of core architecture and component design for a client e-commerce platform, delivering on a fixed timeline for a 3-developer team.
+- Designed the payment component (Razorpay integration) and wrote Jest unit tests to verify core business logic before integration.
+- Documented design trade-offs and schema decisions (ERD revisions) for the team, maintaining a clear technical record for future maintenance.
 
----
+### Appwizer Solutions (OPC) Private Limited | Full Stack Developer Intern
+**Duration:** Jan 2026 -- April 2026  
+**Tech:** Node.js, Express.js, PostgreSQL, Sequelize, AWS EC2
 
-### 📌 Featured Projects
+- Designed and assembled a multi-service data pipeline (validation, chunking, queuing, delivery components) processing 10,000+ records per upload, integrated via a message queue.
+- Built Swagger/OpenAPI-documented REST APIs, maintaining detailed technical documentation for authenticated uploads and job-status tracking.
 
-#### 🔹 [WANDERLUST — RAG-Powered Listing Platform](https://github.com/Jaykadam04/Wonderlust-travel-accomodatin-platform)
-Built as a two-component system (Node.js web app + Python FastAPI microservice) integrated via REST APIs to deliver a per-listing RAG chatbot. Includes Gemini embeddings, LLM answer generation, token-bucket rate limiting with retry-backoff, and short-lived signed Cloudinary URLs.
-`Node.js` `Express.js` `Python` `FastAPI` `MongoDB` `Cloudinary` `Gemini` `LLM Integration`
+### AWS Academy | Machine Learning Intern
+**Duration:** Jan 2025 -- Mar 2025  
+**Tech:** Python, Scikit-learn, AWS SageMaker
 
-#### 🔹 PACKAGING RECOMMENDER — Multi-Criteria Decision Tool
-Academic DSBDA project with weighted multi-criteria scoring using Min-Max normalization across 4 parameters, plus 4 interactive visualizations and a Tkinter GUI with real-time ranking updates.
-`Python` `Pandas` `Matplotlib` `Tkinter`
+- Followed a structured development lifecycle — data cleaning, exploratory analysis, feature engineering, model evaluation — on real-world datasets using Python and AWS SageMaker.
 
----
+## Projects
 
-### 📊 The Numbers Behind the Code
+### WANDERLUST -- RAG-Powered Listing Platform (2025)
+**Tech:** Node.js/Express, Python (FastAPI), MongoDB  
+**GitHub:** [Wonderlust-travel-accomodatin-platform](https://github.com/Jaykadam04/Wonderlust-travel-accomodatin-platform)
 
-> *Consistency compounds — here's the receipts.*
+- Designed and assembled a two-component system (Node.js web app + Python FastAPI microservice) integrated via REST APIs to deliver a per-listing RAG chatbot.
+- Used AI-assisted coding workflows throughout development, and integrated multiple AI services (Gemini embeddings, LLM answer generation) into the pipeline.
+- Built a token-bucket rate limiter with retry-with-backoff to keep the AI service reliable under load, and secured PDF access via short-lived signed Cloudinary URLs.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaykadam04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jay's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaykadam04&theme=tokyonight&hide_border=true" alt="Jay's GitHub Streak" height="165"/>
-</p>
+### PACKAGING RECOMMENDER -- Multi-Criteria Decision Tool (2025)
+**Tech:** Python, Pandas, Matplotlib, Tkinter
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykadam04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
+- Academic project (DSBDA coursework): built a weighted multi-criteria decision component with Min-Max normalization across 4 parameters, plus 4 interactive data visualizations.
+- Built an interactive Tkinter GUI with real-time sliders that recompute scores and rankings instantly as parameters are adjusted.
 
-<!-- Trophy case — turns raw stats into visible "levels", which reads as achievement rather than just data -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaykadam04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+## Awards & Certifications
 
-<!-- Contribution snake — motion is the single strongest attention cue in human vision, so this is the first thing eyes land on -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jaykadam04/Jaykadam04/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation"/>
-</p>
+- **DSA in Java:** Solved 400+ coding problems covering data structures, algorithms, and analytical problem solving.
+- **SQL Practice:** Solved 200+ SQL problems on SQLPractice.com; wrote 30+ PL/SQL procedures/triggers in DBMS coursework.
+- **Agile Software Development:** Applied Agile/Scrum and Continuous Delivery practices across full-stack projects.
+- **Research Publication:** "Use of Artificial Intelligence" (JETIR, 2023).
 
-<!-- Visitor counter — a visible number signals social proof: "people are actually looking at this" -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaykadam04&style=for-the-badge&color=6C3CE9&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+## Leadership & Activities
 
----
-
-### 🏆 Certifications & Achievements
-
-- ✅ DSA in Java — 400+ problems solved
-- ✅ SQL Practice — 200+ problems solved on SQLPractice.com
-- ✅ Agile Software Development — Agile/Scrum and continuous delivery practices
-- ✅ Research Publication: *"Use of Artificial Intelligence"* (JETIR, 2023)
-- 🏅 Smart India Hackathon — Participant (2024, 2025)
-- 🏅 IEEE Hackathon 2025 — Team Leader
-- 🏅 Odoo Hackathon 2025 — Participant
-- 🏅 Fusion Hackathon 2025 — Team Leader
-
----
-
-<p align="center"><i>Thanks for stopping by — let's build something great together!</i></p>
+- **Smart India Hackathon (2024, 2025):** Collaborated under time pressure to build and present working prototypes in fast-paced team sprints.
+- **IEEE Hackathon 2025 (Team Leader):** Led a team through ideation, build, and final presentation.
+- **Odoo Hackathon 2025:** Contributed to rapid prototyping in a fast-paced team setting.
+- **Fusion Hackathon 2025 (Team Leader):** Led a team from problem framing to a working demo.
