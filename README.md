@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jay Kadam 👋</h1>
-<h3 align="center">Software Engineer | Full Stack & Backend Developer | DSA Enthusiast</h3>
+<h3 align="center">Computer Engineering Graduate | Full Stack & Backend Developer | System Designer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jay-kadam-631038259">
@@ -18,11 +18,11 @@
 ### 🚀 About Me
 
 - 🎓 B.E. Computer Engineering @ International Institute of Information Technology, Pune — CGPA 8.23 (June 2026)
-- 💼 Full Stack Developer Intern @ Appwizer Solutions — built RESTful APIs handling 1,000+ daily requests with sub-300ms response time
-- 🤖 Machine Learning Intern @ AWS Academy — end-to-end ML/AI workflows on AWS
-- 🧠 Solved **350+ DSA problems** in Java
-- 🏗️ Built **NEXORA AI**, a production-grade multi-tenant SaaS platform with WhatsApp-powered AI lead conversion
-- 🌍 Built **WANDERLUST**, an AI-powered travel accommodation platform using RAG + LLMs
+- 💼 Full Stack Developer & System Designer (Freelance) @ Poonam Sarees E-Commerce Platform (July 2026 – Current)
+- 💼 Full Stack Developer Intern @ Appwizer Solutions (Jan 2026 – Apr 2026)
+- 🤖 Machine Learning Intern @ AWS Academy (Jan 2025 – Mar 2025)
+- 🧠 Solved **400+ DSA problems** and **200+ SQL problems**
+- 🌍 Built **WANDERLUST**, a RAG-powered listing platform using Node.js + FastAPI microservices
 - 🏆 Team Leader — IEEE Hackathon 2025 & Fusion Hackathon 2025
 - 📝 Published research: *"Use of Artificial Intelligence"* (JETIR, 2023)
 - 📫 Reach me at **kadamjay282@gmail.com**
@@ -38,24 +38,25 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -66,13 +67,13 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 [NEXORA AI — WhatsApp-Powered Gym Lead Conversion Platform](https://github.com/Jaykadam04/Nexora_AI_Bhavesh)
-A production-grade multi-tenant SaaS platform with 4 integrated apps (backend API, CRM dashboard, admin console, marketing site). Features a real-time webhook pipeline, LLM-based lead classification, automated cron jobs, and an analytics dashboard built with React + Recharts.
-`Node.js` `Express.js` `MySQL` `React` `TypeScript` `WhatsApp Cloud API` `LLMs`
+#### 🔹 [WANDERLUST — RAG-Powered Listing Platform](https://github.com/Jaykadam04/Wonderlust-travel-accomodatin-platform)
+Built as a two-component system (Node.js web app + Python FastAPI microservice) integrated via REST APIs to deliver a per-listing RAG chatbot. Includes Gemini embeddings, LLM answer generation, token-bucket rate limiting with retry-backoff, and short-lived signed Cloudinary URLs.
+`Node.js` `Express.js` `Python` `FastAPI` `MongoDB` `Cloudinary` `Gemini` `LLM Integration`
 
-#### 🔹 [WANDERLUST — AI-Powered Travel Accommodation Platform](https://github.com/Jaykadam04/Wonderlust-travel-accomodatin-platform)
-A full-stack travel platform with 200+ property listings, RAG + LLM-powered natural language search (cutting search time by ~40%), and role-based access control across 3 user roles.
-`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary`
+#### 🔹 PACKAGING RECOMMENDER — Multi-Criteria Decision Tool
+Academic DSBDA project with weighted multi-criteria scoring using Min-Max normalization across 4 parameters, plus 4 interactive visualizations and a Tkinter GUI with real-time ranking updates.
+`Python` `Pandas` `Matplotlib` `Tkinter`
 
 ---
 
@@ -108,9 +109,9 @@ A full-stack travel platform with 200+ property listings, RAG + LLM-powered natu
 
 ### 🏆 Certifications & Achievements
 
-- ✅ Agile Software Development — Agile, Lean & Scrum methodologies, CI/CD practices
-- ✅ DSA in Java — 300+ problems solved
-- ✅ MERN Stack Development
+- ✅ DSA in Java — 400+ problems solved
+- ✅ SQL Practice — 200+ problems solved on SQLPractice.com
+- ✅ Agile Software Development — Agile/Scrum and continuous delivery practices
 - ✅ Research Publication: *"Use of Artificial Intelligence"* (JETIR, 2023)
 - 🏅 Smart India Hackathon — Participant (2024, 2025)
 - 🏅 IEEE Hackathon 2025 — Team Leader
