@@ -18,7 +18,7 @@
 ### 🚀 About Me
 
 - 🎓 B.E. Computer Engineering @ International Institute of Information Technology, Pune — CGPA 8.23 (June 2026)
-- 🛍️ Currently building **Poonam Saree Center**, a production e-commerce platform (Next.js, Supabase, Razorpay) as System Designer for a 3-developer team — owning architecture decisions and writing Jest unit tests for core business logic
+- 🛍️ Currently building **Punam Sarees**, a production e-commerce platform (Next.js, Supabase, Razorpay) as System Designer for a 3-developer team — owning architecture decisions and writing Jest unit tests for core business logic
 - 💼 Full Stack Developer Intern @ Appwizer Solutions — built a multi-tenant WhatsApp bulk-messaging platform processing 10,000+ Excel records per upload through a validation-chunking-delivery pipeline
 - 🤖 Machine Learning Intern @ AWS Academy — end-to-end ML workflows (data cleaning, EDA, model evaluation) on AWS
 - 🧠 Solved **400+ DSA problems** in Java, plus **200+ SQL problems** — recently working through LeetCode Hard (segment trees, digit DP, bitset DP)
